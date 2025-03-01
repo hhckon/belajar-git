@@ -1,1 +1,2 @@
-Hello, kita akan belajar DevOpsls -la
+Hello, kita akan belajar DevOps!!
+Belajar commit ke-dua
