@@ -1,2 +1,2 @@
 Fitur login sedang dikembangkan
-Sekarang belajar PR
+Belajar Pull Request
